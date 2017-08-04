@@ -1,0 +1,29 @@
+{
+  "name": "virtual-DOM",
+  "version": "1.0.0",
+  "description": "achieve virtual dom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --hotOnly"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PleaseTryAgain/virtual-DOM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PleaseTryAgain/virtual-DOM/issues"
+  },
+  "homepage": "https://github.com/PleaseTryAgain/virtual-DOM#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.4.1",
+    "webpack-dev-server": "^2.6.1"
+  },
+  "dependencies": {
+    "list-diff2": "^0.1.4"
+  }
+}
